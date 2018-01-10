@@ -1,3 +1,5 @@
+# [![4252 Concepts](media/4252_64px.png)](https://4252.io) A Project By 4252 Concepts
+
 # [Vorpal.js](https://github.com/dthree/vorpal) Settings Extension
 Enables the ability to set property values for Vorpal.js extensions. It can be used to set, get, and store &lt;command&gt; &lt;property&gt; &lt;value...&gt; items for a Vorpal extension. It was made to have a light weight implementation so that your project can benefit from it quickely.
 
