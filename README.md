@@ -83,10 +83,10 @@ This should return a JSON object to the console with the following data in it.
 ```json
 {
     "settings": {
-        "path": ['C:\\Users\\your profile\\.4252settings']
+        "path": ["C:\\Users\\your profile\\.4252settings"]
     },
     "mycoolextension": {
-        "dirpath": [ 'c:\\thor' ] 
+        "dirpath": [ "c:\\thor" ] 
     }
 }
 ```
